@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C3F-404&theme=bear" width=750  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C3F-404&theme=bear&v=2" width=750  alt="stats graph"/>
 
 </div>
 
