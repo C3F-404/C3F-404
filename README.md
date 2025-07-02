@@ -23,6 +23,35 @@
 
 </div>
 
+<h2 align="center">My Stats</h2>
+
+###
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C3F-404&theme=bear" width=750  alt="stats graph"/>
+
+</div>
+
+###
+
+<h2 align="center">Techs I Use</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" width="52" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="center">Find Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://discord.com/users/450799732739276811" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  /></a>
 <!-- GitHub Special Repository Note -->
 <!-- 
 **FCuadra-JAG/FCuadra-JAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
